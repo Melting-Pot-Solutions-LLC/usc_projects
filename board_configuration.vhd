@@ -1,0 +1,5 @@
+A14 - LED_4
+A13 - LED_2
+A12 - LED_3
+A15 - LED_1
+E17 - LED_5
